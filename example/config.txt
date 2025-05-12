@@ -1,0 +1,2 @@
+Prefix plugins/C50/example/
+Plugin C50 inputfile parameters.train.txt outputfile output.rds
